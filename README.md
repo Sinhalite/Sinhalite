@@ -1,8 +1,8 @@
-### 🍺 👶 🤬
+🍺 👶 🤬
 
-[![Sinhalite's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sinhalite&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Sinhalite's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sinhalite&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sinhalite&theme=tokyonight&show_icons=true&langs_count=8)](https://github.com/Sinhalite/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sinhalite&theme=tokyonight&show_icons=true&langs_count=8)](https://github.com/Sinhalite/github-readme-stats) -->
 
 <!--
 **Sinhalite/Sinhalite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
